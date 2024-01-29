@@ -1,5 +1,3 @@
-# linuxC
-
 # Linux C 程式設計 Part 1: 範例學習
 
 ## 格式化輸入與輸出
