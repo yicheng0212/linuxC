@@ -1,4 +1,4 @@
-# Linux C 程式設計 Part 1: 範例學習
+# Linux C 程式設計
 
 ## 格式化輸入與輸出
 ### 輸入與輸出: printf() 與 scanf()
